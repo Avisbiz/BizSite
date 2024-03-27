@@ -1,0 +1,58 @@
+img.logo {
+    width: 60%;
+}
+
+.center{
+    text-align: center;
+}
+
+.Banner {
+    color: white;
+    font-family:"courier";
+    font-weight: lighter;
+    font-size: 300%;
+}
+
+.sidetext {
+    font-family:"courier";
+    font-weight: lighter;
+    font-size: 200%;
+    line-height: 0;
+}
+
+.side-textbox {
+    margin: 1%;
+    padding: 3%;
+    border: 3px double #ffffff;
+    border-radius: 1vw;
+
+    margin-bottom: 40%;
+}
+
+
+
+.maintext {
+    font-family:"courier";
+    font-weight: lighter;
+    font-size: 150%;
+    line-height: 1;
+}
+
+.main-textbox {
+    margin: 0 auto;
+    width: 70%;
+
+    padding: 3%;
+    border: 3px double #c9c9c9;
+    border-radius: 1vw;
+}
+
+.topic {
+    color: #c9c9c9;
+    position: relative;
+}
+
+.content {
+    color: white;
+    font-size:90%;
+}
