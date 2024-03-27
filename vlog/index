@@ -1,1 +1,14 @@
+<html>
+	<head>
+		<title>vlog</title>
+		<link rel="icon" href="https://qebluez.github.io/Site/Qebluez.ico">
+		<link rel="stylesheet" href="https://qebluez.github.io/Site/css/layout.css">
+		<link rel="stylesheet" href="https://qebluez.github.io/Site/css/context.css">
+	</head>
 
+	<body>
+		<div class="center"> 
+      <p class="Banner">My vlog</p> 
+    </div>
+	</body>
+</html>
