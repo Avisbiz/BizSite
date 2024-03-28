@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    
+    background-color: #000;
+}
+
+.container{
+    width: auto;
+    height: auto;
+	
+	
+    position:relative;
+    min-height: 100%;
+
+    font-size: 1vw;
+    background-color: #222;
+}
+
+.header {
+    padding: 1%;
+    width: 100%;
+}
+
+.header-tohome {
+    position: absolute;
+    width: 10%;
+    padding: 1%;
+
+    font-family:"courier";
+    font-weight: lighter;
+    font-size: 150%;
+}
+
+img.logo {
+    width: 100%;
+}
