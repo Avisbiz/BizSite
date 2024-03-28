@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>blog</title>
+		<link rel="icon" href="https://qebluez.github.io/Site/Qebluez.ico">
+		<link rel="stylesheet" href="https://qebluez.github.io/Site/css/layout.css">
+		<link rel="stylesheet" href="https://qebluez.github.io/Site/css/context.css">
+	</head>
+	<body>
+		<div class="center"><p><span class="banner">2024 March</span></p></div>
+		<div class="center"><p><span class="topic">3/27</span></p></div>
+			<div class="main-textbox">
+				<div class="content">
+        <p>このブログの記念すべき開設日だ！どうかな？</p>
+        <p>実はもう時刻は1:34なんだ、3/28のね<br>だから厳密には日付は嘘だ、まあいいよね</p>	
+        <p>あしたもやることあるし、眠いしもう寝ます。瞼ぴくぴくである。</p>
+	<p>「明日も」とか言ったけどぶっちゃけそんなできてない。</p>
+	<p>ブログ立ち上げに若干手こずっちゃって、総計3時間近く持ってかれたかな...</p>
+	<p>まあやりたいことはできたし、今日は寝よ！おやすみ〜</p>			
+				</div>
+			</div>
+		</div>
+		
+		<div class="center"><p><span class="topic">3/28</span></p></div>
+			<div class="main-textbox">
+				<div class="content">
+        <p>元気である。<br>三日坊主にならないようにしたい</p>
+	<p>そもそもとして、このブログを始めたのがTwitter界隈が衰退してきたから。<br>
+		どいつもこいつも似たり寄ったりのことばかり言う、カルト宗教みたいな世の中</p>
+	<p>それが嫌でdiscordを抜け出してきたのもまあ少しあるわけだが、<br>
+		twitterは初めは平和だったものの、結局、受験受験東大東大としか話せないゾンビの波にのまれてしまった</p>
+	<p>Twitterだけじゃない。家も、外でも、ネット上も、アニメの中でも。</p>
+	<p>学歴ってそんなに大事なんだろうか、といつも思う。競争社会の病。</p>
+	<p>このブログはhtml直書きだ。クソシステムとかいうなよ、初心者だからね！</p>
+	<p>僕の好きな動画を紹介してねよう。おやすみ。</p>
+	<p><a href="https://www.youtube.com/watch?v=M6rb6kknj3A">アニメーション「就活狂想曲」</a></p>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
