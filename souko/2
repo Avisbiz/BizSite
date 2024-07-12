@@ -1,0 +1,49 @@
+<html>
+	<head>
+		<title>倉庫</title>
+		<link rel="icon" href="https://ebluez.github.io/Site/ebluez.ico">
+		<link rel="stylesheet" href="https://ebluez.github.io/Site/css/layout-sub.css">
+		<link rel="stylesheet" href="https://ebluez.github.io/Site/css/context.css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="header">
+				<div class="header-tohome">
+                    <a href="https://ebluez.github.io/Site/souko/index.html" class="topic"> 
+                        			倉庫へ
+                    </a>
+        </div>
+				<div class="center">
+                    <p class="Banner">弱者男性になりたくない</p>
+				</div>
+			</div>
+
+			<div class="maintext">
+				<div class="center">
+					<p><span class="topic">pages</span></p>
+				</div>
+				<div class="main-textbox">
+					<div class="content">
+            <p>最近、リアルでも「知性はあっても品性はない」とか言ってることについて。<br>
+            これは単に衒学を辞めろという意味に加えて、(固い言い方をすれば)
+            学歴主義ひいては教養主義に踊らされるなということを包含しています。<br>
+            こういうのってある意味、「お勉強スターター」にありがちなことなんですよね。
+            実態私も教養主義的な一面があることは否めない。<br>
+            ただ最近の本校の風潮には閉口する。かつて数学の理論が単に弁論で相手を打ち負かすことに使われた時代があったように、
+            難しい言葉を並べ立てて、自分のほうがよくものを知っている、お前にはわからないだろうとでもいうような、
+            知識オナニーをする輩がはびこっている。しかもそれが大抵は全く咀嚼されていない
+            誰かの言葉の受け売りであったりもする。下品の極み、呆れるというほかありません。<br>
+            最近において、何か知識を提供するうえで、純粋な好奇心からだった人なんて誇張抜きでほんの一握り。<br>
+            かつて話に出した2人を私は心の底から軽蔑しています。「そういう人間」としてしか見れない。<br>
+            長々言いましたが、簡潔に言えば、わからないことは「わからない」と言うことができる純粋な精神を持ちましょう、と言いたいだけなんです<br>
+            これができている人、私が見る限り本っっっっっっっ当に少ないですよ。
+            プライド、危機感、色々なものが邪魔した結果なのでしょうが、見ているこっちが恥ずかしい。<br>
+            私が思うに、そういう人は「わからない」と人に言ったり、自分の頭の悪さを、表面でなく心から認めた経験が極端に少ない。
+            どんなにうまくごまかしたつもりでも、理解できてないって、第三者からはわかりますよ。
+            </p>
+          </div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
